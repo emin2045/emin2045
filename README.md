@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @emin2045
 - 👀 I’m interested in Game Development with Unreal Engine 4
-- 🌱 I’m currently learning and working on Unreal Engine
+- 🌱 I’m currently working with Unreal Engine
+- 👀 Check my youtube channel: (It's still a work in progress but I hope you like it.) https://www.youtube.com/channel/UCoREDO_XsJioyupqBsmnMhg
 - 📫 How to reach me ... on Discord -> 2045#1439 || on LinkedIn -> https://www.linkedin.com/in/emin-taskiran/
 
 - Important Note: The repositories which are include Unreal things needs to be cloned via Github. If you download it in Zip format, it will give an error to upload a map.
