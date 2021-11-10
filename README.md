@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a Multiplayer Game Project
 - 📫 I'm interested in Gameplay and AI Programming 
 - 👀 Check my youtube channel: (It's still a work in progress but I hope you like it.) https://www.youtube.com/channel/UCoREDO_XsJioyupqBsmnMhg
-- 📫 How to reach me ... on Discord -> EminTaskiran#7929 || on LinkedIn -> https://www.linkedin.com/in/emin-taskiran/
+- 📫 How to reach me ... on Discord -> Emin Taskiran#7929 || on LinkedIn -> https://www.linkedin.com/in/emin-taskiran/
 
 - Important Note: The repositories which are include Unreal things needs to be cloned via Github. If you download it in Zip format, it will give an error to upload a map.
 
