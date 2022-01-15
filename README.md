@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emin2045
 - 👀 I’m interested in Game Development with Unreal Engine 4
-- 🌱 I’m working on a Multiplayer Game Project
+- 🌱 I’m working on a Multiplayer Game
 - 📫 I'm interested in Gameplay and AI Programming 
 - 👀 Check my youtube channel: (It's still a work in progress but I hope you like it.) https://www.youtube.com/channel/UCoREDO_XsJioyupqBsmnMhg
 - 📫 How to reach me ... on Discord -> Emin Taskiran#7929 || on LinkedIn -> https://www.linkedin.com/in/emin-taskiran/
